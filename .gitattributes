@@ -1,0 +1,16 @@
+libavcodec.xcframework/ios-arm64/libavcodec.framework/libavcodec filter=lfs diff=lfs merge=lfs -text
+libavcodec.xcframework/ios-x86_64-simulator/libavcodec.framework/libavcodec filter=lfs diff=lfs merge=lfs -text
+libavdevice.xcframework/ios-arm64/libavdevice.framework/libavdevice filter=lfs diff=lfs merge=lfs -text
+libavdevice.xcframework/ios-x86_64-simulator/libavdevice.framework/libavdevice filter=lfs diff=lfs merge=lfs -text
+libavfilter.xcframework/ios-arm64/libavfilter.framework/libavfilter filter=lfs diff=lfs merge=lfs -text
+libavfilter.xcframework/ios-x86_64-simulator/libavfilter.framework/libavfilter filter=lfs diff=lfs merge=lfs -text
+libavformat.xcframework/ios-arm64/libavformat.framework/libavformat filter=lfs diff=lfs merge=lfs -text
+libavformat.xcframework/ios-x86_64-simulator/libavformat.framework/libavformat filter=lfs diff=lfs merge=lfs -text
+libavutil.xcframework/ios-arm64/libavutil.framework/libavutil filter=lfs diff=lfs merge=lfs -text
+libavutil.xcframework/ios-x86_64-simulator/libavutil.framework/libavutil filter=lfs diff=lfs merge=lfs -text
+libswresample.xcframework/ios-arm64/libswresample.framework/libswresample filter=lfs diff=lfs merge=lfs -text
+libswresample.xcframework/ios-x86_64-simulator/libswresample.framework/libswresample filter=lfs diff=lfs merge=lfs -text
+libswscale.xcframework/ios-arm64/libswscale.framework/libswscale filter=lfs diff=lfs merge=lfs -text
+libswscale.xcframework/ios-x86_64-simulator/libswscale.framework/libswscale filter=lfs diff=lfs merge=lfs -text
+mobileffmpeg.xcframework/ios-arm64/mobileffmpeg.framework/mobileffmpeg filter=lfs diff=lfs merge=lfs -text
+mobileffmpeg.xcframework/ios-x86_64-simulator/mobileffmpeg.framework/mobileffmpeg filter=lfs diff=lfs merge=lfs -text
